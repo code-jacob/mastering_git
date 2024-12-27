@@ -2,7 +2,7 @@ print("kk")
 
 
 git init
-
+git branch -m master main
 git status
 
 git add aaa.py
@@ -19,6 +19,15 @@ git checkout master
 
 
 
+git remote add origin https://github.com/code-jacob/mastering_git.git
+
+git branch -M main
+
+git push -u origin main
+
+git branch branch-name
+
+git checkout branch-name
 
 
 
