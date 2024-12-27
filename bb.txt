@@ -11,4 +11,16 @@ git commit -m 'Add aa.py'
 
 git add ./
 
+git log
+
+git checkout 0e97f5dd3048d92c21db9524fbd0189505e5e80d
+
+git checkout master
+
+
+
+
+
+
+
 
