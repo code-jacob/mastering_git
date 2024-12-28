@@ -53,7 +53,7 @@ git stash apply stash@{0}
 
 
 
-
+git config credential.helper store
 
 
 
